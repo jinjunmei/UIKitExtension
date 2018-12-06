@@ -16,6 +16,10 @@ DerivedData/
 *.perspectivev3
 !default.perspectivev3
 xcuserdata/
+Podfile.lock
+Pods/
+.DS_Store
+.xcworkspace
 
 ## Other
 *.moved-aside
